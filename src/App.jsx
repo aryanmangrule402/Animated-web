@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link, Route, Routes } from 'react-router-dom'
 import Home from './pages/Home';
-import Agence from './Pages/Agence';
+import Agence from './pages/Agence';
 import Projects from './pages/Projects';
 import Navbar from './components/Navigation/Navbar'
 import FullScreenNav from './components/Navigation/FullScreenNav'
